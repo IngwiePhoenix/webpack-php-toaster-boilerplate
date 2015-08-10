@@ -1,0 +1,25 @@
+{
+  "name": "webpack-php-toaster-boilerplate",
+  "private":true,
+  "version": "1.0.0",
+  "description": "WebPack + Uniter demo",
+  "main": "/dev/null",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "php",
+    "uniter",
+    "boilerplate",
+    "demo"
+  ],
+  "author": "Ingwie Phoenix <ingwie2000@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "json-loader": "^0.5.2",
+    "loader-utils": "^0.2.11",
+    "phpruntime": "^2.3.0",
+    "webpack": "^1.11.0"
+  }
+}
